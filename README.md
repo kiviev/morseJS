@@ -12,6 +12,9 @@ First, import the contents of the file morse.js into our html:
 Then, once imported just create an instance of the Morse object to be able to use it as follows:
 
 ```js
-var foo = new Morse('font','button')
+var foo = new Morse('font','button');
+	foo.init();
 ```
-Where font is the jquery selector of the input from which we select the text to translate and button, it is the jquery selector of the event trigger that will do the translation.
+Where **font** is the jquery selector of the input from which we select the text to translate and **button**, it is the jquery selector of the event trigger that will do the translation.
+
+Then start with the *init();*.
