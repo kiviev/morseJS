@@ -1,0 +1,22 @@
+{
+  "name": "morsejs",
+  "version": "1.0.0",
+  "description": "Translate any text in browsers from an entry to the morse code vibrate the device with Javascript",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kiviev/morseJS.git"
+  },
+  "author": "Paco Alba",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kiviev/morseJS/issues"
+  },
+  "homepage": "https://github.com/kiviev/morseJS#readme",
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}
