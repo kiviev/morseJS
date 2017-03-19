@@ -1,0 +1,3 @@
+PREFIX='Lala-'
+PROD_BRANCH='prod'
+DEV_BRANCH='master'
