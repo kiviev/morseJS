@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/kiviev/morseJS#readme",
   "dependencies": {
-    "jquery": "^3.1.1"
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.11.1"
   }
 }
