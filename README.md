@@ -18,3 +18,5 @@ var foo = new Morse('font','button');
 Where **font** is the jquery selector of the input from which we select the text to translate and **button**, it is the jquery selector of the event trigger that will do the translation.
 
 Then start with the *init();*.
+
+[https://kiviev.github.io/morseJS/](https://kiviev.github.io/morseJS/)
